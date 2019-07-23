@@ -1,1 +1,1 @@
-# Database-App_School_Capstone_Project
+# Note: The design info was designed by Webster University. 
